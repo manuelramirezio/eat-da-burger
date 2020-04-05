@@ -1,7 +1,7 @@
 # Eat Da Burger 🍔
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/FullStackForce)
 
-![FullStackForce](burger.png)
+![FullStackForce](eatdaburger.png)
 
 ## Description
 ​
