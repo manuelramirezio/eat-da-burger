@@ -31,12 +31,12 @@ h2{
     height: 250px !important;
 }
 
-.btn-orange {
+.btn-dark {
     background-color: #424242;
     color: #fff;
 
 }
-.btn-orange:hover {
+.btn-dark:hover {
     background-color: #313131;
     color: #fff;
 
