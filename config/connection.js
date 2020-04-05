@@ -6,9 +6,9 @@ if(process.env.JAWSDB_URL) {
 	connection = mysql.createConnection({
 		port: 3306,
 		host: "localhost",
-		user: "b7817cb1b1a19c",
-		password: "ab1efcc7",
-		database: "heroku_ddb5fe0b041cde5"
+		user: "lk7oi8odtwzy5d2j",
+		password: "ob6sp4z2h16wtycb",
+		database: "gxb0ervmh0px8zv8"
 	});
 }
 connection.connect((err) => {
